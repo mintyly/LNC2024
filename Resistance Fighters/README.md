@@ -2,7 +2,7 @@
 comrade! I think our fellow resistance fighters made a mistake, they encrypted their message using their public keys instead of ours! What are we going to do?
 
 ## Summary
-- **Author:** Jun Jie
+- **Author:** June
 - **Discord Username:** mintyly
 - **Category:** Cryptography
 - **Difficulty:** Medium
