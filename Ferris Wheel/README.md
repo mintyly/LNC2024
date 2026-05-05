@@ -4,7 +4,7 @@
 
 ## Summary
 
-- **Author:** Jun Jie
+- **Author:** June
 - **Discord Username:** mintyly
 - **Category:** Miscellaneous
 - **Difficulty:** Easy
