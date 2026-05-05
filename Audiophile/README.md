@@ -4,7 +4,7 @@ I love listening to music! did you know that while MP3 files are compressed and 
 
 ## Summary
 
-- **Author:** Jun Jie
+- **Author:** June
 - **Discord Username:** mintyly
 - **Category:** Forensics
 - **Difficulty:** Easy
